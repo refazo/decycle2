@@ -1,0 +1,4 @@
+.buildozer/
+bin/
+decycle_save.json
+__pycache__/
